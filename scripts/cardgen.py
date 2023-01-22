@@ -29,6 +29,9 @@ storyicons = {}
 for a in storyAspects:
   storyicons[a] = [("storyicons/" + a + "/" + f) for f in listdir("storyicons/" + a) if f.endswith(".svg")]
 
+zodiacsigns = ["aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces"]
+ichingtrigrams = [("guideicons/" + f) for f in listdir("guideicons/") if f.startswith("iching-")]
+futharkrunes = [("guideicons/" + f) for f in listdir("guideicons/") if f.startswith("rune-")]
 
 for n in range(48):
 
@@ -82,6 +85,18 @@ for n in range(48):
     pacingFactor += "quest"
   pacingFactor += ".svg"
 
+
+  ## Zodiac signs
+  zodiac = "guideicons/zodiac-"
+  zodiac += zodiacsigns[n % len(zodiacsigns)]
+  zodiac += ".svg"
+
+  ## I-Ching
+  iching = ichingtrigrams[n % len(ichingtrigrams)]
+
+  ## Elder Futhark runes
+  rune = futharkrunes[n % len(futharkrunes)]
+  
   print("Generating:", fname)
 
   tree.find('.//*[@id = "cardValue"]').text = f'{cardValue}'
@@ -90,6 +105,10 @@ for n in range(48):
   tree.find('.//*[@id = "oracleModifier"]', ns).set('{http://www.w3.org/1999/xlink}href', oracleModifier)
   tree.find('.//*[@id = "pacingProgress"]', ns).set('{http://www.w3.org/1999/xlink}href', pacingProgress)
   tree.find('.//*[@id = "pacingFactor"]', ns).set('{http://www.w3.org/1999/xlink}href', pacingFactor)
+
+  tree.find('.//*[@id = "zodiac"]', ns).set('{http://www.w3.org/1999/xlink}href', zodiac)
+  tree.find('.//*[@id = "iching"]', ns).set('{http://www.w3.org/1999/xlink}href', iching)
+  tree.find('.//*[@id = "rune"]', ns).set('{http://www.w3.org/1999/xlink}href', rune)
 
   for aspect in storyAspects:
     imagepath = storyicons[aspect][n % len(storyicons[aspect])]
