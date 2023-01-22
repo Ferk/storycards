@@ -5,6 +5,7 @@
 
 from xml.etree import ElementTree
 from os import listdir
+import math
 
 # Open original file
 tree = ElementTree.parse('template.svg')
@@ -30,6 +31,7 @@ for a in storyAspects:
   storyicons[a] = [("storyicons/" + a + "/" + f) for f in listdir("storyicons/" + a) if f.endswith(".svg")]
 
 zodiacsigns = ["aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces"]
+shengxiaosigns = [("guideicons/" + f) for f in listdir("guideicons/") if f.startswith("shengxiao-")]
 ichingtrigrams = [("guideicons/" + f) for f in listdir("guideicons/") if f.startswith("iching-")]
 futharkrunes = [("guideicons/" + f) for f in listdir("guideicons/") if f.startswith("rune-")]
 
@@ -91,12 +93,15 @@ for n in range(48):
   zodiac += zodiacsigns[n % len(zodiacsigns)]
   zodiac += ".svg"
 
+  ## Chinese horoscope
+  shengxiao = shengxiaosigns[math.floor(n/4) % len(shengxiaosigns)]
+
   ## I-Ching
   iching = ichingtrigrams[n % len(ichingtrigrams)]
 
   ## Elder Futhark runes
   rune = futharkrunes[n % len(futharkrunes)]
-  
+
   print("Generating:", fname)
 
   tree.find('.//*[@id = "cardValue"]').text = f'{cardValue}'
@@ -107,6 +112,7 @@ for n in range(48):
   tree.find('.//*[@id = "pacingFactor"]', ns).set('{http://www.w3.org/1999/xlink}href', pacingFactor)
 
   tree.find('.//*[@id = "zodiac"]', ns).set('{http://www.w3.org/1999/xlink}href', zodiac)
+  tree.find('.//*[@id = "shengxiao"]', ns).set('{http://www.w3.org/1999/xlink}href', shengxiao)
   tree.find('.//*[@id = "iching"]', ns).set('{http://www.w3.org/1999/xlink}href', iching)
   tree.find('.//*[@id = "rune"]', ns).set('{http://www.w3.org/1999/xlink}href', rune)
 

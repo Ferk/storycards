@@ -172,4 +172,12 @@
          r="150" /><svg:path
          style="fill:none;stroke:#000000;stroke-width:8.44779;stroke-dasharray:none;stroke-opacity:1"
          d="m 1367.0403,2357.0031 h 30.7201 l -15.36,-22.2517 z"
-         id="compassMark" /></svg:g></svg:g></svg:svg>
+         id="compassMark" /></svg:g><svg:image
+       preserveAspectRatio="none"
+       width="300"
+       height="300"
+       style="image-rendering:optimizeQuality"
+       xlink:href="guideicons/shengxiao-01-rat.svg"
+       id="shengxiao"
+       x="439.20258"
+       y="2337.2012" /></svg:g></svg:svg>
