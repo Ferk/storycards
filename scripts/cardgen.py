@@ -26,6 +26,9 @@ ns = {'xlink': 'http://www.w3.org/1999/xlink'}
 
 storyAspects = ["Archetype", "Object", "Place", "Emotion", "Property", "Action"]
 
+# Cards that will have wild/chaotic response to oracle & pacing
+wildcards = [6, 42] # 6 of gold & 7 of clubs
+
 storyicons = {}
 for a in storyAspects:
   storyicons[a] = [("storyicons/" + a + "/" + f) for f in listdir("storyicons/" + a) if f.endswith(".svg")]
@@ -44,11 +47,12 @@ for n in range(48):
 
   ## Card Suit
   cardSuit = 'guideicons/suit-'
-  if cardValue % 4 == 1:
+  suitValue = math.floor(n/12) % 4
+  if suitValue == 0:
     cardSuit += 'clubs'
-  elif cardValue % 4 == 2:
+  elif suitValue == 1:
     cardSuit += 'swords'
-  elif cardValue % 4 == 3:
+  elif suitValue == 2:
     cardSuit += 'cups'
   else:
     cardSuit += 'coins'
@@ -57,6 +61,11 @@ for n in range(48):
   ## Yes / No oracle answers
   # 1-6 No  ;  7-12 Yes
   oracleAnswer = 'guideicons/oracle-' + ('yes' if (n >= 7) else 'no') + '.svg';
+
+  # Special case for the wildcards: "invalid question" response
+  if n in wildcards:
+    oracleAnswer = 'guideicons/oracle-invalid.svg';
+
 
   ## Modifiers to the oracle answer
   # 1: and  ;  2-4: none  ;  5-8: but  ;  9-11: none  ;  12: and 
@@ -69,6 +78,7 @@ for n in range(48):
     oracleModifier += 'none'
   oracleModifier += '.svg'
 
+
   ## Pacing event progress
   pacingProgress = "guideicons/pacing-act-"
   if (n % 4 < 2):
@@ -79,12 +89,21 @@ for n in range(48):
 
   ## Pacing event factor
   pacingFactor = "guideicons/pacing-"
-  if (n%3 == 1):
-    pacingFactor += "character"
-  elif (n%3 == 2):
-    pacingFactor += "environment"
-  else:
-    pacingFactor += "quest"
+  if cardValue == 1: # There's only 4 cards with "Yes, and...", exclude environment factor
+    if (suitValue%2 == 1):
+      pacingFactor += "character"
+    else:
+      pacingFactor += "quest"
+  elif n in wildcards: # wildcard factors (matching "invalid question" ones)
+    pacingFactor += "wildcard"
+  else: # 42 remaining cards (divisible by 3 spread across all numbers)
+    i = (n-4)%3
+    if (i == 1):
+      pacingFactor += "character"
+    elif (i == 2):
+      pacingFactor += "environment"
+    else:
+      pacingFactor += "quest"
   pacingFactor += ".svg"
 
 
