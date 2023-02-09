@@ -5,15 +5,17 @@ guideicons = $(wildcard guideicons/*.svg)
 storyicons = $(wildcard storyicons/*/*.svg)
 
 
-story-cards.pdf: story-cards.sla $(cards) $(guideicons) $(storyicons)
+story-cards.pdf: story-cards.sla $(cards) $(guideicons) $(storyicons) template.svg scripts/cardgen.py
 	scribus -ns -g -py scripts/to-pdf.py story-cards.sla
 
 
-$(cards): template.svg
+$(cards): cardgen
+
+.PHONY: clean cardgen
+
+cardgen:
 	mkdir -p cards
 	scripts/cardgen.py
 
-
-.PHONY: clean
 clean:
 	rm -f *.pdf
