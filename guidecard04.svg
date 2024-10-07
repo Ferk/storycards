@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2.5in" height="3.5in" viewBox="0 0 1920 2688" version="2" id="storycard">
+  <title id="title18">Guide Card</title>
+  <defs id="defs2">
+    <rect x="778.17018" y="733.44776" width="567.97478" height="245.97333" id="rect3203" />
+    <rect x="334.91782" y="1391.3678" width="1606.0354" height="249.94517" id="rect1950" />
+    <rect x="334.91782" y="1149.8667" width="1606.0354" height="182.86154" id="rect1944" />
+    <rect x="334.91782" y="908.3656" width="1641.8134" height="232.05622" id="rect1938" />
+    <rect x="334.91782" y="666.8645" width="1601.5632" height="173.91707" id="rect1932" />
+    <rect x="134.16727" y="1158.3108" width="874.82177" height="513.70659" id="rect3292" />
+    <rect x="147.584" y="406.97406" width="1746.4379" height="681.95115" id="rect3286" />
+    <rect x="332.04706" y="1862.6259" width="1713.9952" height="853.8353" id="rect3264" />
+    <rect x="275.12471" y="1929.0353" width="1065.7129" height="483.84" id="rect3258" />
+    <rect x="778.17017" y="733.44775" width="543.37746" height="279.51515" id="rect3203-8" />
+    <rect x="778.17017" y="733.44775" width="567.97479" height="245.97333" id="rect3228" />
+    <rect x="778.17017" y="733.44775" width="543.37744" height="279.51514" id="rect3203-8-5" />
+    <rect x="778.17017" y="733.44775" width="543.37744" height="279.51514" id="rect3303" />
+  </defs>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Guide Card</dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fernando Carmona Varo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" preserveAspectRatio="xMinyMin">
+    <rect style="font-variation-settings:'wght' 600;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:29.8328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96;paint-order:markers fill stroke" id="background" width="1890.1672" height="2658.0352" x="14.9164" y="14.9164" />
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:213.333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="965.68872" y="218.01411" id="header"><tspan id="tspan2906" x="965.68872" y="218.01411" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:213.333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:center;text-anchor:middle;stroke-width:8">Oracle Cards</tspan></text>
+    <text xml:space="preserve" id="text3201" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203);" x="203.90625" y="0" transform="translate(-96,-32)"><tspan x="960.26927" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Heaven
+</tspan></tspan><tspan x="883.14692" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">focus, power,
+</tspan></tspan><tspan x="851.46725" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">desire, strength</tspan></tspan></text>
+    <text xml:space="preserve" id="text3217" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203);" x="203.90625" y="0" transform="translate(-96,1040)"><tspan x="990.64685" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Earth
+</tspan></tspan><tspan x="856.84485" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">nurture, accept
+</tspan></tspan><tspan x="873.78494" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">patience, love </tspan></tspan></text>
+    <text xml:space="preserve" id="text3209" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203);" x="203.90625" y="0" transform="translate(-768,490.59961)"><tspan x="1014.5661" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Fire
+</tspan></tspan><tspan x="860.5037" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">clarity, passion
+</tspan></tspan><tspan x="837.30059" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">cleansing, active
+</tspan></tspan><tspan style="visibility:hidden" x="778.16992" y="1026.6093"><tspan dx="0 33.854145 32.812481 27.786438 14.817703 20.755203 32.812469 16.953125 16.95311 27.786438 20.911453 20.755188 32.8125 33.802063 33.854126 20.911438" style="font-size:53.3333px;text-align:center;text-anchor:middle">desire, strength</tspan></tspan></text>
+    <text xml:space="preserve" id="text3213" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203);" x="203.90625" y="0" transform="translate(560,490.59961)"><tspan x="983.32915" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Water
+</tspan></tspan><tspan x="870.12609" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">instinct, adapt
+</tspan></tspan><tspan x="927.61304" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">trust, flow
+</tspan></tspan><tspan style="visibility:hidden" x="778.16992" y="1026.6093"><tspan dx="0 33.854145 32.812481 27.786438 14.817703 20.755203 32.812469 16.953125 16.95311 27.786438 20.911453 20.755188 32.8125 33.802063 33.854126 20.911438" style="font-size:53.3333px;text-align:center;text-anchor:middle">desire, strength</tspan></tspan></text>
+    <text xml:space="preserve" id="text3256" style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:320px;white-space:pre;shape-inside:url(#rect3258);" />
+    <text xml:space="preserve" id="text3284" style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3286);fill:#000000;fill-opacity:1;stroke:none;" transform="translate(-64,-96)"><tspan x="147.58398" y="463.59961"><tspan style="font-size:64px">When you need to move the story forwards, pick a </tspan></tspan><tspan x="147.58398" y="543.59961"><tspan style="font-size:64px">card and envision progression on the plot based on </tspan></tspan><tspan x="147.58398" y="623.59961"><tspan style="font-size:64px">the different pacing factor icons.</tspan></tspan></text>
+    <g id="trigrams">
+      <image xlink:href="guideicons/iching-li.svg" y="1244" x="548.73352" id="fire" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-kan.svg" y="1244" x="1171.2665" id="water" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-kun.svg" y="1576.3907" x="860" id="earth" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-quian.svg" y="911.60925" x="860" id="heaven" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-xun.svg" y="1033.8047" x="1076.6129" id="wind" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-gen.svg" y="1454.1953" x="1076.6129" id="mountain" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-dui.svg" y="1033.8047" x="643.38708" id="lake" height="200" width="200" preserveAspectRatio="none" />
+      <image xlink:href="guideicons/iching-zhen.svg" y="1454.1953" x="643.38708" id="thunder" height="200" width="200" preserveAspectRatio="none" />
+    </g>
+    <text xml:space="preserve" id="text3209-3" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203-8);" x="203.90625" y="0" transform="translate(-655.81707,771.05823)"><tspan x="938.5694" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Thunder
+</tspan></tspan><tspan x="810.0799" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">initiative, insight, 
+</tspan></tspan><tspan x="943.42617" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">sudden, </tspan></tspan><tspan x="878.6085" y="980.63462"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">spontaneous</tspan></tspan></text>
+    <text xml:space="preserve" id="text3286" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203-8);" x="203.90625" y="0" transform="translate(480.18293,771.05823)"><tspan x="925.6267" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Mountain
+</tspan></tspan><tspan x="825.62676" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">silence, solitude,
+</tspan></tspan><tspan x="915.65275" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">reflection, </tspan></tspan><tspan x="903.4913" y="980.63462"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">withdrawal</tspan></tspan></text>
+    <text xml:space="preserve" id="text3292" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203-8);" x="203.90625" y="0" transform="translate(478.97199,163.05823)"><tspan x="899.4939" y="780.63474"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">Wind/Wood
+</tspan></tspan><tspan x="798.38719" y="847.30136"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">fairness, flexibility,
+</tspan></tspan><tspan x="781.5122" y="913.96799"><tspan style="font-size:53.3333px;text-align:center;text-anchor:middle">compromise, justice</tspan></tspan></text>
+    <text xml:space="preserve" id="text3292-2" style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3203-8-5);" x="261.96613" y="0" transform="translate(-676.52695,160.27805)"><tspan x="987.76208" y="780.63474"><tspan style="text-align:center;text-anchor:middle">Lake
+</tspan></tspan><tspan x="899.48088" y="847.30136"><tspan style="text-align:center;text-anchor:middle">Inner calm,
+</tspan></tspan><tspan x="787.39762" y="913.96799"><tspan style="text-align:center;text-anchor:middle">secret power within
+</tspan></tspan></text>
+  </g>
+</svg>

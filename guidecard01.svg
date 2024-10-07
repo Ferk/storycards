@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg font-family="Fira Sans,sans-serif" viewBox="0 0 2.5 3.5" version="2" id="guidecard" width="2.5in" height="3.5in" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title18">Guide Card</title>
+  <defs id="defs2">
+    <rect x="134.16727" y="1158.3108" width="1024.8959" height="1084.8356" id="rect3292" />
+    <rect x="147.584" y="406.97406" width="1746.4379" height="681.95117" id="rect3286" />
+    <rect x="332.04706" y="1862.6259" width="1713.9952" height="853.83533" id="rect3264" />
+    <rect x="275.12469" y="1929.0353" width="1065.7129" height="483.84" id="rect3258" />
+  </defs>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Guide Card</dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fernando Carmona Varo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" preserveAspectRatio="xMinyMin">
+    <rect style="font-variation-settings:'wght' 600;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:29.8328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96;paint-order:markers fill stroke" id="background" width="1890.1672" height="2658.0352" x="14.9164" y="14.9164" transform="scale(0.00130208,0.00130215)" />
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:213.333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="965.68872" y="218.01411" id="header" transform="scale(0.00130208,0.00130215)"><tspan id="tspan2906" x="965.68872" y="218.01411" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:213.333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:center;text-anchor:middle;stroke-width:0.0104169">Oracle Cards</tspan></text>
+    <text xml:space="preserve" id="intro" style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3286);display:inline;fill:#000000;fill-opacity:1;stroke:none" transform="matrix(0.00130208,0,0,0.00130215,-0.0833331,-0.125006)"><tspan x="147.58398" y="465.20662" id="tspan1104"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1102">Each card is numbered from 1 to 12, this can be used to </tspan></tspan><tspan x="147.58398" y="545.57198" id="tspan1108"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1106">denote direction (as the handles of a 12 hours clock), or to </tspan></tspan><tspan x="147.58398" y="625.93733" id="tspan1112"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1110">quantify some magnitude.
+</tspan></tspan><tspan x="147.58398" y="706.30269" id="tspan1116"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1114">There's also tarot deck suits that can give nuance. </tspan></tspan></text>
+    <g id="suits" transform="translate(0,0.06249999)">
+      <image xlink:href="guideicons/suit-clubs.svg" y="644.5553" x="171.29413" id="club" height="160" width="160" preserveAspectRatio="none" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="246.51816" y="840.41669" id="clubs-name" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)"><tspan id="tspan4259" x="246.51816" y="840.41669" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;stroke-width:1.3564e-05">clubs</tspan></text>
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.05;font-family:sans-serif;white-space:pre;inline-size:374.052;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="315.48236" y="686.23059" id="clubs-domain" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)"><tspan x="315.48236" y="686.23059" id="tspan1120"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1118">Physical
+</tspan></tspan><tspan x="315.48236" y="736.90459" id="tspan1124"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1122">Superficial
+</tspan></tspan><tspan x="315.48236" y="787.5786" id="tspan1128"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1126">Stable</tspan></tspan></text>
+      <image xlink:href="guideicons/suit-swords.svg" y="644.5553" x="603.29413" id="sword" height="160" width="160" preserveAspectRatio="none" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)" />
+      <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';white-space:pre;inline-size:211.347;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="438.56119" y="845.76038" id="swords-name" transform="matrix(0.00130208,0,0,0.00130215,0.120649,0.0347105)"><tspan x="438.56119" y="845.76038" id="tspan1132"><tspan style="text-align:center;text-anchor:middle" id="tspan1130">swords</tspan></tspan></text>
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.05;font-family:sans-serif;white-space:pre;inline-size:268.17;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="755.48236" y="686.23059" id="swords-domain" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)"><tspan x="755.48236" y="686.23059" id="tspan1136"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1134">Mystical
+</tspan></tspan><tspan x="755.48236" y="736.90459" id="tspan1140"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1138">Sharp
+</tspan></tspan><tspan x="755.48236" y="787.5786" id="tspan1144"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1142">Conflictive</tspan></tspan></text>
+      <image xlink:href="guideicons/suit-cups.svg" y="644.5553" x="1035.2942" id="cup" height="160" width="160" preserveAspectRatio="none" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:211.347;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="486.24872" y="845.76038" id="cups-name" transform="matrix(0.00130208,0,0,0.00130215,0.612301,0.0236151)"><tspan x="486.24872" y="845.76038" id="tspan1148"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle" id="tspan1146">cups</tspan></tspan></text>
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.05;font-family:sans-serif;white-space:pre;inline-size:248.53;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="1195.4824" y="686.23059" id="cups-domain" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)"><tspan x="1195.4824" y="686.23059" id="tspan1152"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1150">Social
+</tspan></tspan><tspan x="1195.4824" y="736.90459" id="tspan1156"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1154">Emotional
+</tspan></tspan><tspan x="1195.4824" y="787.5786" id="tspan1160"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1158">Diplomatic</tspan></tspan></text>
+      <image xlink:href="guideicons/suit-coins.svg" y="644.5553" x="1467.2942" id="coin" height="160" width="160" preserveAspectRatio="none" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:211.347;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="486.24872" y="845.76038" id="coins-name" transform="matrix(0.00130208,0,0,0.00130215,1.17224,0.0347105)"><tspan x="486.24872" y="845.76038" id="tspan1164"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle" id="tspan1162">coins</tspan></tspan></text>
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.05;font-family:sans-serif;white-space:pre;inline-size:215.79;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8" x="1635.4824" y="686.23059" id="coins-domain" transform="matrix(0.00130208,0,0,0.00130215,-0.0668506,0.0416688)"><tspan x="1635.4824" y="686.23059" id="tspan1168"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1166">Technical
+</tspan></tspan><tspan x="1635.4824" y="736.90459" id="tspan1172"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1170">Mental
+</tspan></tspan><tspan x="1635.4824" y="787.5786" id="tspan1176"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.0104169" id="tspan1174">Fancy</tspan></tspan></text>
+    </g>
+    <g id="answers" transform="translate(0.10416665,0.10416665)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3313px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00594012;stroke-opacity:0.96">
+      <g id="yes-and">
+        <text xml:space="preserve" x="1331.9509" y="623.08075" id="yes-and-txt" transform="matrix(0.00130208,0,0,0.00130215,0,0.500026)">
+          <tspan systemLanguage="en" x="1331.9509" y="623.08075">Yes, and...</tspan>
+          <tspan systemLanguage="es" x="1331.9509" y="623.08075">Sí, y además...</tspan>
+        </text>
+        <image xlink:href="guideicons/oracle-yes.svg" y="74.746048" x="713.45715" id="oracleAnswer-4-1" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.834056,1.10521)" />
+        <image xlink:href="guideicons/oracle-modifier-and.svg" y="74.746048" x="937.45715" id="oracleModifier-7-4" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.834056,1.10521)" />
+      </g>
+      <g id="yes">
+        <text xml:space="preserve" x="1333.5581" y="757.8371" id="yes-txt" transform="matrix(0.00130208,0,0,0.00130215,0,0.500026)">
+          <tspan systemLanguage="en" x="1333.5581" y="757.8371">Yes</tspan>
+          <tspan systemLanguage="es" x="1333.5581" y="757.8371">Sí</tspan>
+        </text>
+        <image xlink:href="guideicons/oracle-yes.svg" preserveAspectRatio="xMidYMid" width="269.08575" height="269.08575" id="oracleAnswer" x="713.45715" y="74.746048" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.832911,1.28294)" />
+        <image xlink:href="guideicons/oracle-modifier-none.svg" preserveAspectRatio="xMidYMid" width="269.08575" height="269.08575" id="oracleModifier" x="937.45715" y="74.746048" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.832911,1.28294)" />
+      </g>
+      <g id="yes-but">
+        <text xml:space="preserve" x="1336.4138" y="894.08783" id="yes-but-txt" transform="matrix(0.00130208,0,0,0.00130215,0,0.500026)">
+          <tspan systemLanguage="en" x="1336.4138" y="894.08783">Yes, but...</tspan>
+          <tspan systemLanguage="es" x="1336.4138" y="894.08783">Sí, pero...</tspan>
+        </text>
+        <image xlink:href="guideicons/oracle-yes.svg" y="74.746048" x="713.45715" id="oracleAnswer-4" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.836629,1.46036)" />
+        <image xlink:href="guideicons/oracle-modifier-but.svg" y="74.746048" x="937.45715" id="oracleModifier-7" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.836629,1.46036)" />
+      </g>
+      <g id="no-but">
+        <text xml:space="preserve" x="1332.9325" y="1029.6021" id="no-but-txt" transform="matrix(0.00130208,0,0,0.00130215,0,0.500026)">
+          <tspan systemLanguage="en" x="1332.9325" y="1029.6021">No, but...</tspan>
+          <tspan systemLanguage="es" x="1332.9325" y="1029.6021">No, pero...</tspan>
+        </text>
+        <image xlink:href="guideicons/oracle-no.svg" y="74.746048" x="713.45715" id="oracleAnswer-4-7" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.832097,1.63682)" />
+        <image xlink:href="guideicons/oracle-modifier-but.svg" y="74.746048" x="937.45715" id="oracleModifier-7-8" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.832097,1.63682)" />
+      </g>
+      <g id="no">
+        <text xml:space="preserve" x="1329.6571" y="1167.5106" id="no-txt" transform="matrix(0.00130208,0,0,0.00130215,0,0.500026)">
+          <tspan id="tspan1234-3-6-6" x="1329.6571" y="1167.5106">No</tspan></text>
+        <image xlink:href="guideicons/oracle-no.svg" y="74.746048" x="713.45715" id="oracleAnswer-4-7-2" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.827831,1.8164)" />
+        <image xlink:href="guideicons/oracle-modifier-none.svg" y="74.746048" x="937.45715" id="oracleModifier-7-8-8" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.827831,1.8164)" />
+      </g>
+      <g id="no-and">
+        <text xml:space="preserve" x="1329.6571" y="1304.3676" id="no-and-txt" transform="matrix(0.00130208,0,0,0.00130215,0,0.500026)">
+          <tspan id="tspan1234-3-6-4" x="1329.6571" y="1304.3676">No, and...</tspan>
+        </text>
+        <image xlink:href="guideicons/oracle-no.svg" y="74.746048" x="713.45715" id="oracleAnswer-4-7-4" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.827831,1.99461)" />
+        <image xlink:href="guideicons/oracle-modifier-and.svg" y="74.746048" x="937.45715" id="oracleModifier-7-8-85" height="269.08575" width="269.08575" preserveAspectRatio="xMidYMid" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.827831,1.99461)" />
+      </g>
+      <g id="invalid">
+        <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:149.642px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.84285;stroke-opacity:0.96" x="1207.6952" y="253.49063" id="invalid-txt" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.836633,2.17204)"><tspan id="tspan3596" x="1207.6952" y="253.49063" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:149.642px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00508091;stroke-opacity:0.96">Invalid</tspan>
+        </text>
+<image xlink:href="guideicons/oracle-invalid.svg" preserveAspectRatio="xMidYMid" width="269.08575" height="269.08575" id="oracleAnswer-4-7-0" x="713.45715" y="74.746048" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.836633,2.17204)" />
+<image xlink:href="guideicons/oracle-modifier-but.svg" preserveAspectRatio="xMidYMid" width="269.08575" height="269.08575" id="oracleModifier-7-8-0" x="937.45715" y="74.746048" transform="matrix(7.42494e-4,0,0,7.42534e-4,0.836633,2.17204)" />
+      </g>
+    </g>
+    <text xml:space="preserve" id="answers-txt" style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3292);display:inline;fill:#000000;fill-opacity:1;stroke:none" transform="matrix(0.00130208,0,0,0.00130215,-0.0624998,-0.1041827)"><tspan x="134.16797" y="1213.3426" id="tspan1180"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1178">To answer a yes/no question, pick </tspan></tspan><tspan x="134.16797" y="1287.3079" id="tspan1184"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1182">a card and envision an answer </tspan></tspan><tspan x="134.16797" y="1361.2732" id="tspan1188"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1186">interpreting the symbols as in the </tspan></tspan><tspan x="134.16797" y="1435.2386" id="tspan1192"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1190">table to the right.
+</tspan></tspan><tspan x="134.16797" y="1509.2039" id="tspan1196"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1194">- If &quot;and/but...&quot; envision extra </tspan></tspan><tspan x="134.16797" y="1583.1692" id="tspan1200"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1198">circunstances.
+</tspan></tspan><tspan x="134.16797" y="1657.1346" id="tspan1204"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1202">- If &quot;invalid&quot;, the question itself </tspan></tspan><tspan x="134.16797" y="1731.0999" id="tspan1208"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1206">might be incorrect, envision what </tspan></tspan><tspan x="134.16797" y="1805.0652" id="tspan1212"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1210">might need to change, add a twist </tspan></tspan><tspan x="134.16797" y="1879.0305" id="tspan1216"><tspan style="font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1214">or reformulate the question.</tspan></tspan></text>
+    <text xml:space="preserve" id="difficulty" style="font-style:normal;font-weight:normal;font-size:64px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3264);display:inline;fill:#000000;fill-opacity:1;stroke:none" x="0" y="0" transform="matrix(0.00130208,0,0,0.00130215,-0.312499,0.22917198)"><tspan x="332.04688" y="1917.2917" id="tspan1220"><tspan style="line-height:1.15;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1218">If the question deserves a chance different than 50%, take </tspan></tspan><tspan x="332.04688" y="1990.8916" id="tspan1224"><tspan style="line-height:1.15;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1222">2 cards and keep the card with the highest number for </tspan></tspan><tspan x="332.04688" y="2064.4916" id="tspan1228"><tspan style="line-height:1.15;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1226">higher &quot;Yes&quot; chance, or lowest number for &quot;No&quot; chance. For </tspan></tspan><tspan x="332.04688" y="2138.0917" id="tspan1232"><tspan style="line-height:1.15;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" id="tspan1230">more extreme cases, you may pick 3 cards instead. </tspan></tspan></text>
+  </g>
+</svg>
